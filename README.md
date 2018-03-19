@@ -5,7 +5,7 @@
 -
 -cd /tmp
 -
--git clone https://github.com/rajamalam72/squid3-ssl.git
+-git clone https://github.com/China-Jerry/squid3-ssl.git
 -
 -cd squid3-ssl
 -
